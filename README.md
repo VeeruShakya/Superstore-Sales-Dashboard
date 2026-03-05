@@ -2,8 +2,7 @@
 
 ![Superstore Sales Dashboard](https://github.com/VeeruShakya/Superstore-Sales-Dashboard/blob/93f69ece98ba6e6be24d0f7d5aa45462e82c8b8b/Dashboard_screenshot1.png))
 
-![Superstore Sales Dashboard](Dashboard_Screenshot.png)
-
+![Superstore Sales Dashboard](https://github.com/VeeruShakya/Superstore-Sales-Dashboard/blob/3b03592f3e31d787747d27ce61878b538cac85ae/Dashboard_screenshot.png)
 ## 📌 Executive Summary
 For e-commerce and retail brands, holding excess inventory or missing shipping targets directly destroys profit margins. 
 
